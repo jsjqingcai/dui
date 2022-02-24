@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T03:35:30.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="8_Z9jcOZIuGE9xQpD0gH" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T03:40:18.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="B9i8_ov7O5gaa3tiLtRo" version="16.6.2" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1406" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -155,6 +155,15 @@
         </mxCell>
         <mxCell id="W6fJpK6H0EL8F6D3os2s-11" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;endArrow=none;endFill=0;" edge="1" parent="W6fJpK6H0EL8F6D3os2s-17" source="W6fJpK6H0EL8F6D3os2s-4" target="W6fJpK6H0EL8F6D3os2s-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W6fJpK6H0EL8F6D3os2s-18" value="Sail推理服务集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760.63" y="896" width="98.37" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W6fJpK6H0EL8F6D3os2s-19" value="Hubble数据库集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="893" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W6fJpK6H0EL8F6D3os2s-20" value="大数据/建模/模型发布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="233" y="933" width="195" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
